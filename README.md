@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Oscar Ramos
-- 🌱 I’m currently learning React
 - 📫 How to reach me: oscar.ramos.andres@gmail.com 
 
 <!---
